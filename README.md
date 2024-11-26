@@ -1,5 +1,10 @@
 ## Life Dice
 
-Playful dice rolling game with fun animations and faces customization
+This project is a dice rolling game implemented using Flutter.  It allows users to customize the number of dice and their faces.
 
-![Demo](https://github.com/user-attachments/assets/fa0e33b2-3cd1-4f86-8220-7ad37a7fd904)
+## Features
+
+* Roll multiple dice simultaneously.
+* Customize the number of sides on each die (e.g., 6-sided, 10-sided, etc.).
+* Visual representation of the dice roll.
+* Sound effects upon dice roll.
