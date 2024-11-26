@@ -1,6 +1,6 @@
 ## Life Dice
 
-This project is a dice rolling game implemented using Flutter.  It allows users to customize the number of dice and their faces.
+This project is a dice rolling game implemented using Flutter. It allows users to customize the number of dice and their faces.
 
 ## Features
 
